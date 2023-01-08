@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="deadlock.DeadLock" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-08T18:27:30" hostname="EDWINP-MENDEZ" time="0.009">
+  <properties/>
+  <testcase name="methodTest()" classname="deadlock.DeadLock" time="0.009"/>
+  <system-out><![CDATA[BBBB: AAAA 
+AAAA: BBBB 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
